@@ -1,5 +1,11 @@
-![](https://komarev.com/ghpvc/?username=veast-network) ![](https://komarev.com/ghpvc/?username=veast-network&p=enis) ![](https://komarev.com/ghpvc/?username=veast-network&pe=nis) ![](https://komarev.com/ghpvc/?username=veast-network&pen=is) ![](https://komarev.com/ghpvc/?username=veast-network&peni=s)
+![](https://komarev.com/ghpvc/?username=veast-network)
 
+Hello! I'm veast.
+
+I currently code in the languages: C#, JS
+
+I currently work on the project: https://github.com/veast-network/roku-troller
+<!--
 [![c7.pm](https://c7.pm/img/c7pm.gif)](https://c7.pm)
 ![](https://c7.pm/img/toast.png)
 ![](https://c7.pm/img/elixire.gif)
