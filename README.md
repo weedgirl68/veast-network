@@ -6,8 +6,7 @@ I currently code in the languages: C#, JS
 
 I currently work on the project: https://github.com/veast-network/iphReceiptGen
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/veast-network/veast-network/assets/86145902/a9dd8336-d9ea-4385-a129-075ec8501d7f');]{x0000}$}
+
 
 <!--
 [![c7.pm](https://c7.pm/img/c7pm.gif)](https://c7.pm)
